@@ -9,7 +9,7 @@
 
 * Microservicos
 * Java
-* RabbittMQ
+* RabbitMQ
 * Docker
 * Eureka
 * Gateway
